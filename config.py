@@ -5,7 +5,7 @@
 
 # --- MT5 Credentials (IC Markets) ---
 MT5_LOGIN    = 52786887
-MT5_PASSWORD = "gCleoel3D$1eHF"
+MT5_PASSWORD = "YOUR_PASSWORD_HERE" # Update this on your VPS only!
 MT5_SERVER   = "ICMarketsSC-Demo"
 
 MT5_PATH = "C:/Program Files/MetaTrader 5 EXNESS/terminal64.exe"
